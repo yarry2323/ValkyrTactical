@@ -57,7 +57,7 @@ Three scenes (`romance_scene`, `ending_triumph`, `ending_pyrrhic`, `ending_retre
 | `ending_pyrrhic_kestrel.png` | Ending: Pyrrhic — Kestrel variant (done ✅) |
 | `ending_pyrrhic_vex.png` | Ending: Pyrrhic — Vex variant (done ✅) |
 | `ending_rogue_solo.png` | Ending: No Contract, No Colors (done ✅) |
-| `ending_retreat_kestrel.png` | Ending: Fight Another Day — Kestrel variant |
+| `ending_retreat_kestrel.png` | Ending: Fight Another Day — Kestrel variant (done ✅) |
 | `ending_retreat_vex.png` | Ending: Fight Another Day — Vex variant |
 
 Recommended size: portrait, roughly 3:4 (e.g. 1122×1402 or similar ratio), JPG or PNG.
