@@ -55,7 +55,7 @@ Three scenes (`romance_scene`, `ending_triumph`, `ending_pyrrhic`, `ending_retre
 | `ending_triumph_kestrel.png` | Ending: Exposed and Bonded — Kestrel variant (done ✅) |
 | `ending_triumph_vex.png` | Ending: Exposed and Bonded — Vex variant (done ✅) |
 | `ending_pyrrhic_kestrel.png` | Ending: Pyrrhic — Kestrel variant (done ✅) |
-| `ending_pyrrhic_vex.png` | Ending: Pyrrhic — Vex variant |
+| `ending_pyrrhic_vex.png` | Ending: Pyrrhic — Vex variant (done ✅) |
 | `ending_rogue_solo.jpg` | Ending: No Contract, No Colors |
 | `ending_retreat_kestrel.png` | Ending: Fight Another Day — Kestrel variant |
 | `ending_retreat_vex.png` | Ending: Fight Another Day — Vex variant |
