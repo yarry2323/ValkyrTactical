@@ -215,7 +215,7 @@ const STORY = {
     ending_rogue_solo: {
       id: "ending_rogue_solo",
       title: "No Contract, No Colors",
-      image: "ending_rogue_solo.jpg",
+      image: "ending_rogue_solo.png",
       ending: true,
       endingId: "rogue_solo",
       text:
