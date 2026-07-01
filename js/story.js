@@ -130,7 +130,7 @@ const STORY = {
     final_battle: {
       id: "final_battle",
       title: "The Reckoning",
-      image: "final_battle.jpg",
+      image: "final_battle.png",
       text: (state) => {
         let out = "The client's private security force descends on the black site in gunships black as the space between stars — sent not to arrest you, but to bury the evidence. " +
           "That evidence is your squad.\n\n";

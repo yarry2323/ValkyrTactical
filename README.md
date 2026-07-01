@@ -49,7 +49,7 @@ Three scenes (`romance_scene`, `ending_triumph`, `ending_pyrrhic`, `ending_retre
 | `path_rogue_early.png` | Off the Leash (done ✅) |
 | `romance_scene_kestrel.png` | Before the Storm — Kestrel variant (done ✅) |
 | `romance_scene_vex.png` | Before the Storm — Vex variant (done ✅) |
-| `final_battle.jpg` | The Reckoning |
+| `final_battle.png` | The Reckoning (done ✅) |
 | `battle_choice_press.jpg` | No Ground Given |
 | `battle_choice_regroup.jpg` | Hold the Line |
 | `ending_triumph_kestrel.png` | Ending: Exposed and Bonded — Kestrel variant |
