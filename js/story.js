@@ -72,7 +72,7 @@ const STORY = {
     intel_discovery: {
       id: "intel_discovery",
       title: "What the Walls Remember",
-      image: "intel_discovery.jpg",
+      image: "intel_discovery.png",
       text: (state) => {
         if (state.sparedEnemy) {
           return "The technician talks fast, desperate to live: this was never a research post — it was a black site. " +
