@@ -47,7 +47,7 @@ Three scenes (`romance_scene`, `ending_triumph`, `ending_pyrrhic`, `ending_retre
 | `intel_discovery.png` | What the Walls Remember (done ✅) |
 | `squad_confrontation.png` | A Fork in the Contract (done ✅) |
 | `path_rogue_early.png` | Off the Leash (done ✅) |
-| `romance_scene_kestrel.png` | Before the Storm — Kestrel variant |
+| `romance_scene_kestrel.png` | Before the Storm — Kestrel variant (done ✅) |
 | `romance_scene_vex.png` | Before the Storm — Vex variant (done ✅) |
 | `final_battle.jpg` | The Reckoning |
 | `battle_choice_press.jpg` | No Ground Given |
