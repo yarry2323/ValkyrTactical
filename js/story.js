@@ -162,7 +162,7 @@ const STORY = {
     battle_choice_regroup: {
       id: "battle_choice_regroup",
       title: "Hold the Line",
-      image: "battle_choice_regroup.jpg",
+      image: "battle_choice_regroup.png",
       text:
         "You pull the squad back into the black site's own bones, turning the enemy's black-ops architecture into a killbox. It buys time. It doesn't buy victory — not yet.",
       choices: [

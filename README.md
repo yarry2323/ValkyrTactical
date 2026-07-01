@@ -51,7 +51,7 @@ Three scenes (`romance_scene`, `ending_triumph`, `ending_pyrrhic`, `ending_retre
 | `romance_scene_vex.png` | Before the Storm — Vex variant (done ✅) |
 | `final_battle.png` | The Reckoning (done ✅) |
 | `battle_choice_press.png` | No Ground Given (done ✅) |
-| `battle_choice_regroup.jpg` | Hold the Line |
+| `battle_choice_regroup.png` | Hold the Line (done ✅) |
 | `ending_triumph_kestrel.png` | Ending: Exposed and Bonded — Kestrel variant |
 | `ending_triumph_vex.png` | Ending: Exposed and Bonded — Vex variant |
 | `ending_pyrrhic_kestrel.png` | Ending: Pyrrhic — Kestrel variant |
