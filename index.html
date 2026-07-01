@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
+  <title>Valkyr Tactical</title>
+
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Valkyr Tactical" />
+  <meta name="theme-color" content="#0a0a0c" />
+  <link rel="apple-touch-icon" href="images/icon-180.png" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="app">
+
+    <section id="title-screen">
+      <div class="title-wrap">
+        <h1 class="game-title">VALKYR<span>TACTICAL</span></h1>
+        <p class="game-subtitle">A contract never ends where it starts.</p>
+        <div class="title-buttons">
+          <button id="btn-continue" class="choice-btn primary" type="button" hidden>Continue</button>
+          <button id="btn-begin" class="choice-btn" type="button">Begin</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="game-screen" hidden>
+      <div id="scene-image-wrap" class="no-image">
+        <img id="scene-image" alt="" />
+      </div>
+      <div id="scene-body">
+        <span id="ending-badge" hidden>THE END</span>
+        <h2 id="scene-title"></h2>
+        <p id="scene-text"></p>
+        <div id="choices"></div>
+        <button id="btn-restart" class="choice-btn" type="button" hidden>Restart</button>
+      </div>
+    </section>
+
+  </div>
+
+  <script src="js/story.js"></script>
+  <script src="js/engine.js"></script>
+</body>
+</html>
