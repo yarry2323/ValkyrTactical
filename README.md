@@ -32,7 +32,7 @@ To edit or expand the story, edit `js/story.js` only — you don't need to touch
 
 ## Adding real artwork
 
-The game runs today with no art at all (scenes fall back to a stylized dark gradient). To add real images, drop a file into `images/` with the **exact filename** each scene already expects — no code changes needed:
+Every scene now has real anime-style art (all 19 images below are done ✅). Scenes fall back to a stylized dark gradient automatically if an image file is ever missing, so the game stays playable if art is swapped out or removed. To replace an image, just overwrite the file in `images/` with the **exact filename** each scene expects — no code changes needed:
 
 Filenames below use `.jpg` as a placeholder extension — `.png` works too, just make sure the extension in `js/story.js`'s `image:` field for that scene matches the actual file you drop in.
 
@@ -58,7 +58,7 @@ Three scenes (`romance_scene`, `ending_triumph`, `ending_pyrrhic`, `ending_retre
 | `ending_pyrrhic_vex.png` | Ending: Pyrrhic — Vex variant (done ✅) |
 | `ending_rogue_solo.png` | Ending: No Contract, No Colors (done ✅) |
 | `ending_retreat_kestrel.png` | Ending: Fight Another Day — Kestrel variant (done ✅) |
-| `ending_retreat_vex.png` | Ending: Fight Another Day — Vex variant |
+| `ending_retreat_vex.png` | Ending: Fight Another Day — Vex variant (done ✅) |
 
 Recommended size: portrait, roughly 3:4 (e.g. 1122×1402 or similar ratio), JPG or PNG.
 
