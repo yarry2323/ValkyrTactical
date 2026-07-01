@@ -40,7 +40,7 @@ Filenames below use `.jpg` as a placeholder extension — `.png` works too, just
 |---|---|
 | `briefing.png` | Mission Briefing (done ✅) |
 | `approach_stealth.png` | Into the Dark (stealth route, done ✅) |
-| `approach_assault.jpg` | Guns Up (assault route) |
+| `approach_assault.png` | Guns Up (assault route, done ✅) |
 | `combat_encounter.jpg` | Contact |
 | `intel_discovery.jpg` | What the Walls Remember |
 | `squad_confrontation.jpg` | A Fork in the Contract |

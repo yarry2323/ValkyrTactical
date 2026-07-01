@@ -42,7 +42,7 @@ const STORY = {
     approach_assault: {
       id: "approach_assault",
       title: "Guns Up",
-      image: "approach_assault.jpg",
+      image: "approach_assault.png",
       text: (state) => {
         let out = "You come in loud — thrusters flaring, door charges primed before the shuttle's skids touch ash. Subtlety was never really the plan.\n\n";
         if (state.bondedWith === "kestrel") {
