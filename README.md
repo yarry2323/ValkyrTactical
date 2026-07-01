@@ -44,7 +44,7 @@ Filenames below use `.jpg` as a placeholder extension — `.png` works too, just
 | `combat_encounter.png` | Contact (done ✅) |
 | `intel_discovery.png` | What the Walls Remember (done ✅) |
 | `squad_confrontation.png` | A Fork in the Contract (done ✅) |
-| `path_rogue_early.jpg` | Off the Leash |
+| `path_rogue_early.png` | Off the Leash (done ✅) |
 | `romance_scene.jpg` | Before the Storm |
 | `final_battle.jpg` | The Reckoning |
 | `battle_choice_press.jpg` | No Ground Given |

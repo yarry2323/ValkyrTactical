@@ -103,7 +103,7 @@ const STORY = {
     path_rogue_early: {
       id: "path_rogue_early",
       title: "Off the Leash",
-      image: "path_rogue_early.jpg",
+      image: "path_rogue_early.png",
       text:
         "You break from the chain of command without waiting for permission, dragging two squadmates with you into the dark. " +
         "Draeger's voice crackles once over comms — furious, then gone silent. Whatever happens next, you own it alone.",
