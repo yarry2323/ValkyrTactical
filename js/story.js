@@ -9,7 +9,7 @@ const STORY = {
     briefing: {
       id: "briefing",
       title: "Mission Briefing",
-      image: "briefing.jpg",
+      image: "briefing.png",
       text:
         "The Hyades Cluster is a graveyard of dead moons and deader contracts, and Valkyr Tactical just took another one. " +
         "Captain Osana Draeger stands over the holotable, jaw tight, projecting a corporate “research outpost” buried in the ash-fields of a nameless rock designated KX-19.\n\n" +

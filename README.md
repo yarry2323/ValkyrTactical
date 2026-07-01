@@ -34,9 +34,11 @@ To edit or expand the story, edit `js/story.js` only — you don't need to touch
 
 The game runs today with no art at all (scenes fall back to a stylized dark gradient). To add real images, drop a file into `images/` with the **exact filename** each scene already expects — no code changes needed:
 
+Filenames below use `.jpg` as a placeholder extension — `.png` works too, just make sure the extension in `js/story.js`'s `image:` field for that scene matches the actual file you drop in.
+
 | Filename | Scene |
 |---|---|
-| `briefing.jpg` | Mission Briefing |
+| `briefing.png` | Mission Briefing (done ✅) |
 | `approach_stealth.jpg` | Into the Dark (stealth route) |
 | `approach_assault.jpg` | Guns Up (assault route) |
 | `combat_encounter.jpg` | Contact |
@@ -52,7 +54,7 @@ The game runs today with no art at all (scenes fall back to a stylized dark grad
 | `ending_rogue_solo.jpg` | Ending: No Contract, No Colors |
 | `ending_retreat.jpg` | Ending: Fight Another Day |
 
-Recommended size: roughly 4:3 (e.g. 1024×768 or larger, same aspect ratio), JPG or PNG.
+Recommended size: portrait, roughly 3:4 (e.g. 1122×1402 or similar ratio), JPG or PNG.
 
 ### Art direction
 
