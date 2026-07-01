@@ -25,7 +25,7 @@ const STORY = {
     approach_stealth: {
       id: "approach_stealth",
       title: "Into the Dark",
-      image: "approach_stealth.jpg",
+      image: "approach_stealth.png",
       text: (state) => {
         let out = "You cut the running lights and drop the shuttle through KX-19's ash storms, radar-silent, thruster-whisper quiet against the wind. No one talks above a breath.\n\n";
         if (state.bondedWith === "kestrel") {

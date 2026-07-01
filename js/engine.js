@@ -124,6 +124,7 @@
     }
     saveState();
     render();
+    window.scrollTo(0, 0);
     els.game.scrollTop = 0;
   }
 

@@ -39,7 +39,7 @@ Filenames below use `.jpg` as a placeholder extension — `.png` works too, just
 | Filename | Scene |
 |---|---|
 | `briefing.png` | Mission Briefing (done ✅) |
-| `approach_stealth.jpg` | Into the Dark (stealth route) |
+| `approach_stealth.png` | Into the Dark (stealth route, done ✅) |
 | `approach_assault.jpg` | Guns Up (assault route) |
 | `combat_encounter.jpg` | Contact |
 | `intel_discovery.jpg` | What the Walls Remember |
