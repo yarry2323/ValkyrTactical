@@ -113,7 +113,7 @@ const STORY = {
     romance_scene: {
       id: "romance_scene",
       title: "Before the Storm",
-      image: "romance_scene.jpg",
+      image: (state) => state.bondedWith === "kestrel" ? "romance_scene_kestrel.png" : "romance_scene_vex.png",
       text: (state) => {
         if (state.bondedWith === "kestrel") {
           return "There's an hour before the counter-op, and Kestrel spends it beside you on the shuttle ramp, field-stripping her rifle by habit, not need. " +
@@ -174,7 +174,7 @@ const STORY = {
     ending_triumph: {
       id: "ending_triumph",
       title: "Exposed and Bonded",
-      image: "ending_triumph.jpg",
+      image: (state) => state.bondedWith === "kestrel" ? "ending_triumph_kestrel.png" : "ending_triumph_vex.png",
       ending: true,
       endingId: "triumph",
       text: (state) => {
@@ -196,7 +196,7 @@ const STORY = {
     ending_pyrrhic: {
       id: "ending_pyrrhic",
       title: "Pyrrhic",
-      image: "ending_pyrrhic.jpg",
+      image: (state) => state.bondedWith === "kestrel" ? "ending_pyrrhic_kestrel.png" : "ending_pyrrhic_vex.png",
       ending: true,
       endingId: "pyrrhic",
       effects: (state) => {
@@ -227,7 +227,7 @@ const STORY = {
     ending_retreat: {
       id: "ending_retreat",
       title: "Fight Another Day",
-      image: "ending_retreat.jpg",
+      image: (state) => state.bondedWith === "kestrel" ? "ending_retreat_kestrel.png" : "ending_retreat_vex.png",
       ending: true,
       endingId: "retreat",
       text: (state) => {

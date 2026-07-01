@@ -68,8 +68,13 @@
     return typeof scene.text === "function" ? scene.text(s) : scene.text;
   }
 
-  function setImage(scene) {
-    if (!scene.image) {
+  function resolveImage(scene, s) {
+    return typeof scene.image === "function" ? scene.image(s) : scene.image;
+  }
+
+  function setImage(scene, s) {
+    const image = resolveImage(scene, s);
+    if (!image) {
       els.sceneImageWrap.classList.add("no-image");
       els.sceneImage.removeAttribute("src");
       return;
@@ -80,14 +85,14 @@
       els.sceneImage.onerror = null;
       els.sceneImage.removeAttribute("src");
     };
-    els.sceneImage.src = "images/" + scene.image;
+    els.sceneImage.src = "images/" + image;
   }
 
   function render() {
     const scene = STORY.scenes[state.currentScene];
     if (!scene) return;
 
-    setImage(scene);
+    setImage(scene, state);
     els.sceneTitle.textContent = scene.title || "";
     els.sceneText.textContent = resolveText(scene, state);
     els.choices.innerHTML = "";
