@@ -43,7 +43,7 @@ Filenames below use `.jpg` as a placeholder extension — `.png` works too, just
 | `approach_assault.png` | Guns Up (assault route, done ✅) |
 | `combat_encounter.png` | Contact (done ✅) |
 | `intel_discovery.png` | What the Walls Remember (done ✅) |
-| `squad_confrontation.jpg` | A Fork in the Contract |
+| `squad_confrontation.png` | A Fork in the Contract (done ✅) |
 | `path_rogue_early.jpg` | Off the Leash |
 | `romance_scene.jpg` | Before the Storm |
 | `final_battle.jpg` | The Reckoning |

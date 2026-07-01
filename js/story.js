@@ -89,7 +89,7 @@ const STORY = {
     squad_confrontation: {
       id: "squad_confrontation",
       title: "A Fork in the Contract",
-      image: "squad_confrontation.jpg",
+      image: "squad_confrontation.png",
       text:
         "You gather the squad in the ash-blasted courtyard, tablet in hand, proof in your fist. Captain Draeger reads it twice, face unreadable. " +
         "“If this is real,” she says quietly, “the client's already planning our funeral. We report it up the chain — quiet, careful, by the book. Or…” " +
