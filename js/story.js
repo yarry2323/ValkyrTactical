@@ -59,7 +59,7 @@ const STORY = {
     combat_encounter: {
       id: "combat_encounter",
       title: "Contact",
-      image: "combat_encounter.jpg",
+      image: "combat_encounter.png",
       text:
         "Inside, the “research outpost” turns out to be something else entirely — server racks, restraint chairs, hardware that shouldn't exist on a client's manifest. " +
         "A single enemy technician stumbles into your path, wounded, weaponless, hands already rising.",

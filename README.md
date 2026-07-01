@@ -41,7 +41,7 @@ Filenames below use `.jpg` as a placeholder extension — `.png` works too, just
 | `briefing.png` | Mission Briefing (done ✅) |
 | `approach_stealth.png` | Into the Dark (stealth route, done ✅) |
 | `approach_assault.png` | Guns Up (assault route, done ✅) |
-| `combat_encounter.jpg` | Contact |
+| `combat_encounter.png` | Contact (done ✅) |
 | `intel_discovery.jpg` | What the Walls Remember |
 | `squad_confrontation.jpg` | A Fork in the Contract |
 | `path_rogue_early.jpg` | Off the Leash |
