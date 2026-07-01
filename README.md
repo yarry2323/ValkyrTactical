@@ -75,25 +75,8 @@ Anime style: cel-shaded, manga/mecha-anime key-visual look, dynamic action poses
 
 Mention the relevant character(s) by name/look in future prompts so the generator stays consistent instead of drawing a generic new face each time.
 
-### Image prompts
+### Art status
 
-Use these with your image-generation tool of choice. Style prefix to prepend to every prompt:
-
-> *Anime key visual, cel-shaded, dynamic lighting, dark grimdark military sci-fi palette with crimson and neon accents, dramatic composition, confident and striking character design —*
-
-| File | Prompt |
-|---|---|
-| `romance_scene_kestrel.png` | the Lieutenant (long dark wavy hair, black cloak) sharing a quiet intimate moment with Kestrel (silver/white hair, calm expression, sniper rifle nearby) on a cargo ramp at dusk, soft warm light against a cold industrial backdrop, romantic tension |
-| `final_battle.jpg` | the Lieutenant and her squad dug into a ruined black-site facility as black gunships descend from a starry sky, dramatic wide shot, muzzle flashes |
-| `battle_choice_press.jpg` | the Lieutenant and squadmates charging forward through gunfire and debris in a full-frontal assault, motion blur, intense action |
-| `battle_choice_regroup.jpg` | the Lieutenant and squadmates taking defensive cover inside a fortified corridor, tactical formation, tense standoff lighting |
-| `ending_triumph_kestrel.png` | the Lieutenant and Kestrel (silver/white hair) embracing triumphantly at sunrise over a battle-scarred moon base, romantic and victorious mood |
-| `ending_triumph_vex.png` | the Lieutenant and Vex (blonde undercut, tattoos) embracing/kissing triumphantly at sunrise over a battle-scarred moon base, romantic and victorious mood |
-| `ending_pyrrhic_kestrel.png` | the Lieutenant kneeling beside Kestrel's (silver/white hair) fallen body on a smoke-filled battlefield, grief and quiet victory, somber lighting |
-| `ending_pyrrhic_vex.png` | the Lieutenant kneeling beside Vex's (blonde undercut, tattoos) fallen body on a smoke-filled battlefield, grief and quiet victory, somber lighting |
-| `ending_rogue_solo.jpg` | the Lieutenant walking alone into a starship's shadow, silhouette against a distant explosion, isolated and resolute |
-| `ending_retreat_kestrel.png` | the Lieutenant and Kestrel (silver/white hair) among the battered squad boarding their shuttle at dawn as it lifts off from the ash-fields, weary but alive, hopeful lighting |
-| `ending_retreat_vex.png` | the Lieutenant and Vex (blonde undercut, tattoos) among the battered squad boarding their shuttle at dawn as it lifts off from the ash-fields, weary but alive, hopeful lighting |
-| App icon (`icon-180.png` / `icon-192.png` / `icon-512.png`) | a minimalist emblem: a stylized crimson "V" wing/valkyrie insignia on a near-black background, flat icon style, clean edges |
+All 19 scene images are done, and the app icon (`icon-180.png` / `icon-192.png` / `icon-512.png`) uses the Valkyr Tactical / H-37th Black skull-and-wings emblem that recurs on banners and patches throughout the art — bold and high-contrast so it still reads clearly at home-screen icon size. If any image ever needs regenerating, reuse the style prefix and character reference above so new art stays consistent with what's already in place.
 
 The current `images/icon-*.png` files are simple code-generated placeholders (a crimson chevron on dark background) so "Add to Home Screen" works today — swap them out with real art any time using the same filenames.
