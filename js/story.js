@@ -150,7 +150,7 @@ const STORY = {
     battle_choice_press: {
       id: "battle_choice_press",
       title: "No Ground Given",
-      image: "battle_choice_press.jpg",
+      image: "battle_choice_press.png",
       text:
         "You commit everything. There's no elegant tactic left — just violence in a straight line, and the hope that Valkyr Tactical hits harder than anyone expects from six mercenaries and a stolen black site's worth of proof.",
       choices: [
